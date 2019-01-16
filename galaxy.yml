@@ -1,4 +1,5 @@
-name: "alikins.collection_reqs_circular_a"
+namespace: "alikins"
+name: "collection_reqs_circular_a"
 version: "1.0.0"
 description: "Collection a that requires b that requires a (circular deps)"
 authors: ["Adrian Likins"]

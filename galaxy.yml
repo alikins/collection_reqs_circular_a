@@ -1,6 +1,6 @@
 namespace: "alikins"
 name: "collection_reqs_circular_a"
-version: "1.0.1"
+version: "1.0.2"
 description: "Collection a that requires b that requires a (circular deps)"
 authors: ["Adrian Likins"]
 license: "GPL-3.0-or-later"
